@@ -3,8 +3,8 @@
   "warnings": [],
   "version": "4.46.0",
   "hash": "322f3800eb380dbf33e4",
-  "time": 3686,
-  "builtAt": 1639633629561,
+  "time": 3169,
+  "builtAt": 1639634047943,
   "publicPath": "",
   "outputPath": "F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\dist",
   "assetsByChunkName": {
@@ -193,7 +193,7 @@
     },
     {
       "name": "manifest.json",
-      "size": 1373,
+      "size": 1366,
       "chunks": [],
       "chunkNames": [],
       "info": {
@@ -887,8 +887,8 @@
                 },
                 {
                   "id": null,
-                  "identifier": "F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\src\\scripts\\views\\pages\\favorite.js",
-                  "name": "./src/scripts/views/pages/favorite.js"
+                  "identifier": "F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\src\\scripts\\views\\pages\\detail.js",
+                  "name": "./src/scripts/views/pages/detail.js"
                 },
                 {
                   "id": 4,
@@ -965,8 +965,8 @@
                 },
                 {
                   "id": null,
-                  "identifier": "F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\src\\scripts\\views\\pages\\favorite.js",
-                  "name": "./src/scripts/views/pages/favorite.js"
+                  "identifier": "F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\src\\scripts\\views\\pages\\detail.js",
+                  "name": "./src/scripts/views/pages/detail.js"
                 },
                 {
                   "id": 4,
@@ -1178,9 +1178,9 @@
           "chunks": [
             2
           ],
-          "issuer": "F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\src\\scripts\\views\\templates\\template-creator.js",
-          "issuerId": null,
-          "issuerName": "./src/scripts/views/templates/template-creator.js",
+          "issuer": "F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\src\\scripts\\data\\favoriteRestaurant-idb.js",
+          "issuerId": 4,
+          "issuerName": "./src/scripts/data/favoriteRestaurant-idb.js",
           "issuerPath": [
             {
               "id": 11,
@@ -1199,13 +1199,13 @@
             },
             {
               "id": null,
-              "identifier": "F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\src\\scripts\\views\\pages\\home.js",
-              "name": "./src/scripts/views/pages/home.js"
+              "identifier": "F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\src\\scripts\\views\\pages\\detail.js",
+              "name": "./src/scripts/views/pages/detail.js"
             },
             {
-              "id": null,
-              "identifier": "F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\src\\scripts\\views\\templates\\template-creator.js",
-              "name": "./src/scripts/views/templates/template-creator.js"
+              "id": 4,
+              "identifier": "F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\src\\scripts\\data\\favoriteRestaurant-idb.js",
+              "name": "./src/scripts/data/favoriteRestaurant-idb.js"
             }
           ],
           "failed": false,
@@ -1407,7 +1407,7 @@
             "default"
           ],
           "optimizationBailout": [
-            "ModuleConcatenation bailout: Cannot concat with ./src/scripts/globals/config.js because of ./src/scripts/views/templates/template-creator.js"
+            "ModuleConcatenation bailout: Cannot concat with ./src/scripts/globals/config.js because of ./src/scripts/views/pages/detail.js"
           ],
           "depth": 4,
           "modules": [
@@ -1423,9 +1423,9 @@
               "optional": false,
               "prefetched": false,
               "chunks": [],
-              "issuer": "F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\src\\scripts\\views\\pages\\home.js",
+              "issuer": "F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\src\\scripts\\views\\pages\\detail.js",
               "issuerId": null,
-              "issuerName": "./src/scripts/views/pages/home.js",
+              "issuerName": "./src/scripts/views/pages/detail.js",
               "issuerPath": [
                 {
                   "id": 11,
@@ -1444,8 +1444,8 @@
                 },
                 {
                   "id": null,
-                  "identifier": "F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\src\\scripts\\views\\pages\\home.js",
-                  "name": "./src/scripts/views/pages/home.js"
+                  "identifier": "F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\src\\scripts\\views\\pages\\detail.js",
+                  "name": "./src/scripts/views/pages/detail.js"
                 }
               ],
               "failed": false,
@@ -1550,8 +1550,8 @@
                 },
                 {
                   "id": null,
-                  "identifier": "F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\src\\scripts\\views\\pages\\home.js",
-                  "name": "./src/scripts/views/pages/home.js"
+                  "identifier": "F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\src\\scripts\\views\\pages\\detail.js",
+                  "name": "./src/scripts/views/pages/detail.js"
                 },
                 {
                   "id": null,
@@ -1627,9 +1627,9 @@
           "chunks": [
             2
           ],
-          "issuer": "F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\src\\scripts\\views\\pages\\favorite.js",
+          "issuer": "F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\src\\scripts\\views\\pages\\detail.js",
           "issuerId": null,
-          "issuerName": "./src/scripts/views/pages/favorite.js",
+          "issuerName": "./src/scripts/views/pages/detail.js",
           "issuerPath": [
             {
               "id": 11,
@@ -1648,8 +1648,8 @@
             },
             {
               "id": null,
-              "identifier": "F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\src\\scripts\\views\\pages\\favorite.js",
-              "name": "./src/scripts/views/pages/favorite.js"
+              "identifier": "F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\src\\scripts\\views\\pages\\detail.js",
+              "name": "./src/scripts/views/pages/detail.js"
             }
           ],
           "failed": false,
@@ -2515,9 +2515,9 @@
               "optional": false,
               "prefetched": false,
               "chunks": [],
-              "issuer": "F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\src\\scripts\\views\\pages\\home.js",
+              "issuer": "F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\src\\scripts\\views\\pages\\detail.js",
               "issuerId": null,
-              "issuerName": "./src/scripts/views/pages/home.js",
+              "issuerName": "./src/scripts/views/pages/detail.js",
               "issuerPath": [
                 {
                   "id": 11,
@@ -2536,8 +2536,8 @@
                 },
                 {
                   "id": null,
-                  "identifier": "F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\src\\scripts\\views\\pages\\home.js",
-                  "name": "./src/scripts/views/pages/home.js"
+                  "identifier": "F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\src\\scripts\\views\\pages\\detail.js",
+                  "name": "./src/scripts/views/pages/detail.js"
                 }
               ],
               "failed": false,
@@ -2864,8 +2864,8 @@
                 },
                 {
                   "id": null,
-                  "identifier": "F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\src\\scripts\\views\\pages\\home.js",
-                  "name": "./src/scripts/views/pages/home.js"
+                  "identifier": "F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\src\\scripts\\views\\pages\\detail.js",
+                  "name": "./src/scripts/views/pages/detail.js"
                 },
                 {
                   "id": null,
@@ -3886,9 +3886,9 @@
       "chunks": [
         2
       ],
-      "issuer": "F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\src\\scripts\\views\\templates\\template-creator.js",
-      "issuerId": null,
-      "issuerName": "./src/scripts/views/templates/template-creator.js",
+      "issuer": "F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\src\\scripts\\data\\favoriteRestaurant-idb.js",
+      "issuerId": 4,
+      "issuerName": "./src/scripts/data/favoriteRestaurant-idb.js",
       "issuerPath": [
         {
           "id": 11,
@@ -3907,13 +3907,13 @@
         },
         {
           "id": null,
-          "identifier": "F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\src\\scripts\\views\\pages\\home.js",
-          "name": "./src/scripts/views/pages/home.js"
+          "identifier": "F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\src\\scripts\\views\\pages\\detail.js",
+          "name": "./src/scripts/views/pages/detail.js"
         },
         {
-          "id": null,
-          "identifier": "F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\src\\scripts\\views\\templates\\template-creator.js",
-          "name": "./src/scripts/views/templates/template-creator.js"
+          "id": 4,
+          "identifier": "F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\src\\scripts\\data\\favoriteRestaurant-idb.js",
+          "name": "./src/scripts/data/favoriteRestaurant-idb.js"
         }
       ],
       "failed": false,
@@ -4366,7 +4366,7 @@
         "default"
       ],
       "optimizationBailout": [
-        "ModuleConcatenation bailout: Cannot concat with ./src/scripts/globals/config.js because of ./src/scripts/views/templates/template-creator.js"
+        "ModuleConcatenation bailout: Cannot concat with ./src/scripts/globals/config.js because of ./src/scripts/views/pages/detail.js"
       ],
       "depth": 4,
       "modules": [
@@ -4382,9 +4382,9 @@
           "optional": false,
           "prefetched": false,
           "chunks": [],
-          "issuer": "F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\src\\scripts\\views\\pages\\home.js",
+          "issuer": "F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\src\\scripts\\views\\pages\\detail.js",
           "issuerId": null,
-          "issuerName": "./src/scripts/views/pages/home.js",
+          "issuerName": "./src/scripts/views/pages/detail.js",
           "issuerPath": [
             {
               "id": 11,
@@ -4403,8 +4403,8 @@
             },
             {
               "id": null,
-              "identifier": "F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\src\\scripts\\views\\pages\\home.js",
-              "name": "./src/scripts/views/pages/home.js"
+              "identifier": "F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\src\\scripts\\views\\pages\\detail.js",
+              "name": "./src/scripts/views/pages/detail.js"
             }
           ],
           "failed": false,
@@ -4509,8 +4509,8 @@
             },
             {
               "id": null,
-              "identifier": "F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\src\\scripts\\views\\pages\\home.js",
-              "name": "./src/scripts/views/pages/home.js"
+              "identifier": "F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\src\\scripts\\views\\pages\\detail.js",
+              "name": "./src/scripts/views/pages/detail.js"
             },
             {
               "id": null,
@@ -4586,9 +4586,9 @@
       "chunks": [
         2
       ],
-      "issuer": "F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\src\\scripts\\views\\pages\\favorite.js",
+      "issuer": "F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\src\\scripts\\views\\pages\\detail.js",
       "issuerId": null,
-      "issuerName": "./src/scripts/views/pages/favorite.js",
+      "issuerName": "./src/scripts/views/pages/detail.js",
       "issuerPath": [
         {
           "id": 11,
@@ -4607,8 +4607,8 @@
         },
         {
           "id": null,
-          "identifier": "F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\src\\scripts\\views\\pages\\favorite.js",
-          "name": "./src/scripts/views/pages/favorite.js"
+          "identifier": "F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\src\\scripts\\views\\pages\\detail.js",
+          "name": "./src/scripts/views/pages/detail.js"
         }
       ],
       "failed": false,
@@ -5456,9 +5456,9 @@
           "optional": false,
           "prefetched": false,
           "chunks": [],
-          "issuer": "F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\src\\scripts\\views\\pages\\home.js",
+          "issuer": "F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\src\\scripts\\views\\pages\\detail.js",
           "issuerId": null,
-          "issuerName": "./src/scripts/views/pages/home.js",
+          "issuerName": "./src/scripts/views/pages/detail.js",
           "issuerPath": [
             {
               "id": 11,
@@ -5477,8 +5477,8 @@
             },
             {
               "id": null,
-              "identifier": "F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\src\\scripts\\views\\pages\\home.js",
-              "name": "./src/scripts/views/pages/home.js"
+              "identifier": "F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\src\\scripts\\views\\pages\\detail.js",
+              "name": "./src/scripts/views/pages/detail.js"
             }
           ],
           "failed": false,
@@ -5805,8 +5805,8 @@
             },
             {
               "id": null,
-              "identifier": "F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\src\\scripts\\views\\pages\\home.js",
-              "name": "./src/scripts/views/pages/home.js"
+              "identifier": "F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\src\\scripts\\views\\pages\\detail.js",
+              "name": "./src/scripts/views/pages/detail.js"
             },
             {
               "id": null,
@@ -6012,8 +6012,8 @@
             },
             {
               "id": null,
-              "identifier": "F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\src\\scripts\\views\\pages\\favorite.js",
-              "name": "./src/scripts/views/pages/favorite.js"
+              "identifier": "F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\src\\scripts\\views\\pages\\detail.js",
+              "name": "./src/scripts/views/pages/detail.js"
             },
             {
               "id": 4,
@@ -6090,8 +6090,8 @@
             },
             {
               "id": null,
-              "identifier": "F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\src\\scripts\\views\\pages\\favorite.js",
-              "name": "./src/scripts/views/pages/favorite.js"
+              "identifier": "F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\src\\scripts\\views\\pages\\detail.js",
+              "name": "./src/scripts/views/pages/detail.js"
             },
             {
               "id": 4,
