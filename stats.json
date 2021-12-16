@@ -2,9 +2,9 @@
   "errors": [],
   "warnings": [],
   "version": "4.46.0",
-  "hash": "524fe029bb60e00fc614",
-  "time": 3118,
-  "builtAt": 1639654900876,
+  "hash": "eaabb222c57fe6471764",
+  "time": 3803,
+  "builtAt": 1639655366406,
   "publicPath": "",
   "outputPath": "F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\dist",
   "assetsByChunkName": {
@@ -40,7 +40,7 @@
     },
     {
       "name": "3.bundle.js",
-      "size": 29410,
+      "size": 29415,
       "chunks": [
         3
       ],
@@ -1178,9 +1178,9 @@
           "chunks": [
             2
           ],
-          "issuer": "F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\src\\scripts\\views\\templates\\template-creator.js",
-          "issuerId": null,
-          "issuerName": "./src/scripts/views/templates/template-creator.js",
+          "issuer": "F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\src\\scripts\\data\\favoriteRestaurant-idb.js",
+          "issuerId": 4,
+          "issuerName": "./src/scripts/data/favoriteRestaurant-idb.js",
           "issuerPath": [
             {
               "id": 11,
@@ -1199,13 +1199,13 @@
             },
             {
               "id": null,
-              "identifier": "F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\src\\scripts\\views\\pages\\home.js",
-              "name": "./src/scripts/views/pages/home.js"
+              "identifier": "F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\src\\scripts\\views\\pages\\favorite.js",
+              "name": "./src/scripts/views/pages/favorite.js"
             },
             {
-              "id": null,
-              "identifier": "F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\src\\scripts\\views\\templates\\template-creator.js",
-              "name": "./src/scripts/views/templates/template-creator.js"
+              "id": 4,
+              "identifier": "F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\src\\scripts\\data\\favoriteRestaurant-idb.js",
+              "name": "./src/scripts/data/favoriteRestaurant-idb.js"
             }
           ],
           "failed": false,
@@ -1310,7 +1310,7 @@
               "moduleName": "./src/scripts/views/app.js + 11 modules",
               "type": "harmony import specifier",
               "userRequest": "../../globals/config",
-              "loc": "20:330-336"
+              "loc": "20:335-341"
             }
           ],
           "usedExports": [
@@ -1407,7 +1407,7 @@
             "default"
           ],
           "optimizationBailout": [
-            "ModuleConcatenation bailout: Cannot concat with ./src/scripts/globals/config.js because of ./src/scripts/views/templates/template-creator.js"
+            "ModuleConcatenation bailout: Cannot concat with ./src/scripts/globals/config.js because of ./src/scripts/views/pages/favorite.js"
           ],
           "depth": 4,
           "modules": [
@@ -1899,14 +1899,14 @@
       "rendered": true,
       "initial": true,
       "entry": false,
-      "size": 50145,
+      "size": 50150,
       "names": [
         "main~29d6ecf2"
       ],
       "files": [
         "3.bundle.js"
       ],
-      "hash": "c841fca999e360cdd2dd",
+      "hash": "3f4b7a41271e2233561d",
       "siblings": [
         0,
         1,
@@ -1979,7 +1979,7 @@
           "name": "./src/scripts/views/app.js + 11 modules",
           "index": 26,
           "index2": 42,
-          "size": 30190,
+          "size": 30195,
           "cacheable": true,
           "built": true,
           "optional": false,
@@ -2509,7 +2509,7 @@
               "name": "./src/scripts/views/templates/template-creator.js",
               "index": 34,
               "index2": 31,
-              "size": 5210,
+              "size": 5215,
               "cacheable": true,
               "built": true,
               "optional": false,
@@ -3886,9 +3886,9 @@
       "chunks": [
         2
       ],
-      "issuer": "F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\src\\scripts\\views\\templates\\template-creator.js",
-      "issuerId": null,
-      "issuerName": "./src/scripts/views/templates/template-creator.js",
+      "issuer": "F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\src\\scripts\\data\\favoriteRestaurant-idb.js",
+      "issuerId": 4,
+      "issuerName": "./src/scripts/data/favoriteRestaurant-idb.js",
       "issuerPath": [
         {
           "id": 11,
@@ -3907,13 +3907,13 @@
         },
         {
           "id": null,
-          "identifier": "F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\src\\scripts\\views\\pages\\home.js",
-          "name": "./src/scripts/views/pages/home.js"
+          "identifier": "F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\src\\scripts\\views\\pages\\favorite.js",
+          "name": "./src/scripts/views/pages/favorite.js"
         },
         {
-          "id": null,
-          "identifier": "F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\src\\scripts\\views\\templates\\template-creator.js",
-          "name": "./src/scripts/views/templates/template-creator.js"
+          "id": 4,
+          "identifier": "F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!F:\\Dicoding IdCamp\\Belajar Expert Front-End Web Development\\submission katalog restoran 3\\src\\scripts\\data\\favoriteRestaurant-idb.js",
+          "name": "./src/scripts/data/favoriteRestaurant-idb.js"
         }
       ],
       "failed": false,
@@ -4018,7 +4018,7 @@
           "moduleName": "./src/scripts/views/app.js + 11 modules",
           "type": "harmony import specifier",
           "userRequest": "../../globals/config",
-          "loc": "20:330-336"
+          "loc": "20:335-341"
         }
       ],
       "usedExports": [
@@ -4366,7 +4366,7 @@
         "default"
       ],
       "optimizationBailout": [
-        "ModuleConcatenation bailout: Cannot concat with ./src/scripts/globals/config.js because of ./src/scripts/views/templates/template-creator.js"
+        "ModuleConcatenation bailout: Cannot concat with ./src/scripts/globals/config.js because of ./src/scripts/views/pages/favorite.js"
       ],
       "depth": 4,
       "modules": [
@@ -4920,7 +4920,7 @@
       "name": "./src/scripts/views/app.js + 11 modules",
       "index": 26,
       "index2": 42,
-      "size": 30190,
+      "size": 30195,
       "cacheable": true,
       "built": true,
       "optional": false,
@@ -5450,7 +5450,7 @@
           "name": "./src/scripts/views/templates/template-creator.js",
           "index": 34,
           "index2": 31,
-          "size": 5210,
+          "size": 5215,
           "cacheable": true,
           "built": true,
           "optional": false,
